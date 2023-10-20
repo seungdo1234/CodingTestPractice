@@ -1,5 +1,4 @@
 # 코딩테스트 연습
-코딩 테스트 연습
 
 [코딩테스트 스터디](https://github.com/JeongHPark/2022-Algorithm-Study/tree/jsd)  <br/>
 
