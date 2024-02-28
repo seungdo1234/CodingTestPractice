@@ -27,3 +27,30 @@ int main() {
 
 	return 0;
 }
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+#include <iostream>
+#include<string>
+#include<sstream>
+// https://www.acmicpc.net/problem/1152 단어의 개수
+using namespace std;
+
+int main() {
+	string str, buf;
+	int count = 0; // 문자 1개 이상은 무조건 입력되기 때문에 기본 단어의 갯수는 1로 설정
+
+	getline(cin, str); // 문자열 입력
+
+	stringstream ss(str); // stringstream 변수에 문자열 저장
+
+ // 공백과\n 기준으로 문자열 탐색
+	while (ss >> buf) { // 문자열 끝까지 탐색 완료시 반복문 break 
+		count++;
+	}
+
+	cout << count << endl;
+
+	return 0;
+}
