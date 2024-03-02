@@ -1,4 +1,4 @@
-# 코딩테스트 연습
+# C++ 코딩테스트 연습
 
 [코딩테스트 스터디](https://github.com/JeongHPark/2022-Algorithm-Study/tree/jsd)  <br/>
 
@@ -10,4 +10,6 @@
 [1260번 DFS와 BFS](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/1260%EB%B2%88%20DFS%EC%99%80%20BFS/DFS%EC%99%80%20BFS.cpp)  <br/>
 [1697번 숨바꼭질](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/1697%EB%B2%88%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/1697%EB%B2%88%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.cpp)  <br/>
 [2178번 미로탐색](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/2178%EB%B2%88%20%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89/2178%EB%B2%88%20%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.cpp)  <br/>
+[9012번 괄호](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/9012%EB%B2%88%20%EA%B4%84%ED%98%B8/9012%EB%B2%88%20%EA%B4%84%ED%98%B8.cpp)  <br/>
 [11399번 ATM](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/11399%EB%B2%88%20ATM/11399%EB%B2%88%20ATM.cpp)  <br/>
+
