@@ -4,7 +4,7 @@
 [2022 코딩테스트 스터디](https://github.com/JeongHPark/2022-Algorithm-Study/tree/jsd)  <br/>
 
 ## 프로그래머스
-|문제|풀이|
+|문제 (코드)|블로그 풀이|
 |----|----|
 |[가장 먼 노드(그래프)](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EA%B7%B8%EB%9E%98%ED%94%84/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.cpp)|[풀이 바로가기](https://github.com/seungdo1234/CodingTestPractice/tree/main/Programmers/%EA%B7%B8%EB%9E%98%ED%94%84)|
 |[게임 맵 최단거리](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.cpp)|[풀이 바로가기](https://deff-dev.tistory.com/12)|
@@ -17,7 +17,7 @@
 
 
 ## 백준
-|문제|풀이|
+|문제 (코드)|블로그 풀이|
 |----|----|
 |[1152번 단어의 개수](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/1152%EB%B2%88%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98/%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/11) | 
 |[1260번 DFS와 BFS](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/1260%EB%B2%88%20DFS%EC%99%80%20BFS/DFS%EC%99%80%20BFS.cpp)|[풀이 바로가기](https://deff-dev.tistory.com/13)|  
