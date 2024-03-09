@@ -14,6 +14,7 @@
 |[추억 점수](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98/%EC%B6%94%EC%96%B5%EC%A0%90%EC%88%98.cpp)|  [풀이 바로가기](https://deff-dev.tistory.com/23)|  
 |[덧칠하기](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0/%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.cpp)  |[풀이 바로가기](https://deff-dev.tistory.com/24)| 
 |[대충 만든 자판](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90/%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/18) | 
+|[둘만의 암호](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/29) | 
 
 
 ## 백준
@@ -22,7 +23,7 @@
 |[1152번 단어의 개수](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/1152%EB%B2%88%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98/%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/11) | 
 |[1260번 DFS와 BFS](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/1260%EB%B2%88%20DFS%EC%99%80%20BFS/DFS%EC%99%80%20BFS.cpp)|[풀이 바로가기](https://deff-dev.tistory.com/13)|  
 |[1697번 숨바꼭질](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/1697%EB%B2%88%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/1697%EB%B2%88%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/14)  |
-|[2178번 미로탐색](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/2178%EB%B2%88%20%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89/2178%EB%B2%88%20%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.cpp) |[풀이 바로가기](https://deff-dev.tistory.com/17)  \
+|[2178번 미로탐색](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/2178%EB%B2%88%20%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89/2178%EB%B2%88%20%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.cpp) |[풀이 바로가기](https://deff-dev.tistory.com/17)  |
 |[9012번 괄호](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/9012%EB%B2%88%20%EA%B4%84%ED%98%B8/9012%EB%B2%88%20%EA%B4%84%ED%98%B8.cpp)  | [풀이 바로가기](https://deff-dev.tistory.com/16)  |
 |[11399번 ATM](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/11399%EB%B2%88%20ATM/11399%EB%B2%88%20ATM.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/15)|  
 
