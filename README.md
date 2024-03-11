@@ -16,7 +16,7 @@
 |[대충 만든 자판](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90/%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/18) | 
 |[둘만의 암호](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/29) | 
 |[카드 뭉치](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%20%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/30) | 
-
+|[크기가 작은 부분 문자열](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%AC%B8%EC%9E%90%EC%97%B4/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/34) | 
 
 
 ## 백준
