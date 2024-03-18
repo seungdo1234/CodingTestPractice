@@ -21,6 +21,9 @@
 |[기사단원의 무기](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/35) | 
 |[푸드 파이트 대회](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/42) | 
 |[과일 장수](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.cpp  ) | [풀이 바로가기](https://deff-dev.tistory.com/44) | 
+|[콜라 문제](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/46) | 
+|[삼총사](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EC%82%BC%EC%B4%9D%EC%82%AC/%EC%82%BC%EC%B4%9D%EC%82%AC.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/47) | 
+|[숫자 짝꿍](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/45) | 
 
 
 ## 백준
