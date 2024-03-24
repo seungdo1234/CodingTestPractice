@@ -37,3 +37,8 @@
 |[9012번 괄호](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/9012%EB%B2%88%20%EA%B4%84%ED%98%B8/9012%EB%B2%88%20%EA%B4%84%ED%98%B8.cpp)  | [풀이 바로가기](https://deff-dev.tistory.com/16)  |
 |[11399번 ATM](https://github.com/seungdo1234/CodingTestPractice/blob/main/Baekjoon/11399%EB%B2%88%20ATM/11399%EB%B2%88%20ATM.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/15)|  
 
+
+## 코드업
+|문제 유형|문제 (코드)|블로그 풀이|
+|----|----|----|
+|중첩 반복문|[주사위를 2개 던지면 ?](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/%EC%A4%91%EC%B2%A9%20%EB%B0%98%EB%B3%B5%EB%AC%B8/%EC%A3%BC%EC%82%AC%EC%9C%84%EB%A5%BC%202%EA%B0%9C%20%EB%8D%98%EC%A7%80%EB%A9%B4%3F.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/59) | 
