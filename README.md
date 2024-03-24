@@ -42,3 +42,4 @@
 |문제 유형|문제 (코드)|블로그 풀이|
 |----|----|----|
 |중첩 반복문|[주사위를 2개 던지면 ?](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/%EC%A4%91%EC%B2%A9%20%EB%B0%98%EB%B3%B5%EB%AC%B8/%EC%A3%BC%EC%82%AC%EC%9C%84%EB%A5%BC%202%EA%B0%9C%20%EB%8D%98%EC%A7%80%EB%A9%B4%3F.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/59) | 
+|2차원 배열|[설탕과자 뽑기](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EC%84%A4%ED%83%95%EA%B3%BC%EC%9E%90%20%EB%BD%91%EA%B8%B0.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/60) | 
