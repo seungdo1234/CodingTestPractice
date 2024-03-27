@@ -5,26 +5,14 @@
 using namespace std;
 
 int map[10][10] = { 0, }; // 전체 맵
+vector<pair<int, int>> waterBalloons; // 물풍선의 위치 정보를 저장하는 벡터
+vector<pair<int, int>> playerPos; // 플레이어의 위치 정보를 저장하는 벡터
 
 // 4방향 배열
 int dx[4] = { 1,-1,0,0 };
 int dy[4] = { 0,0,1,-1 };
 
-int main() {
-	vector<pair<int, int>> waterBalloons; // 물풍선의 위치 정보를 저장하는 벡터
-	vector<pair<int, int>> playerPos; // 플레이어의 위치 정보를 저장하는 벡터
-	int n;
-
-
-	for (int i = 0; i < 10; i++) { // 맵 입력
-		for (int j = 0; j < 10; j++) {
-			cin >> map[i][j];
-			if (map[i][j] > 0) {
-				waterBalloons.push_back({ i, j });
-			}
-		}
-	}
-
+void Explode() {
 	for (int i = 0; i < waterBalloons.size(); i++) { // 물풍선 터트림
 		int x = waterBalloons[i].first, y = waterBalloons[i].second; // 물풍선의 x,y 좌표 저장
 		int power = map[x][y]; // 물풍선의 파워 저장
@@ -48,6 +36,10 @@ int main() {
 			}
 		}
 	}
+}
+
+void PlayerState() {
+	int n;
 
 	cin >> n; // 플레이어 수 입력
 	for (int i = 0; i < n; i++) { // 플레이어 수만큼 위치 입력
@@ -77,6 +69,22 @@ int main() {
 			cout << "player " << i + 1 << " survive\n";
 		}
 	}
+}
 
+int main() {
+
+	for (int i = 0; i < 10; i++) { // 맵 입력
+		for (int j = 0; j < 10; j++) {
+			cin >> map[i][j];
+			if (map[i][j] > 0) {
+				waterBalloons.push_back({ i, j });
+			}
+		}
+	}
+
+	Explode();
+
+	PlayerState();
+	
 	return 0;
 }
