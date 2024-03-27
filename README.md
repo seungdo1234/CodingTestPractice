@@ -47,3 +47,5 @@
 |2차원 배열|[성실한 개미](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EC%84%B1%EC%8B%A4%ED%95%9C%20%EA%B0%9C%EB%AF%B8.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/61) | 
 |2차원 배열|[지뢰 찾기 1](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EC%A7%80%EB%A2%B0%20%EC%B0%BE%EA%B8%B0%201.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/64) | 
 |2차원 배열|[생명 게임 1](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EC%83%9D%EB%AA%85%20%EA%B2%8C%EC%9E%84%201.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/65) | 
+|2차원 배열|[진격 후 결과](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EC%A7%84%EA%B2%A9%20%ED%9B%84%20%EA%B2%B0%EA%B3%BC.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/66) | 
+|2차원 배열|[크레이지 아케이드](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EC%95%84%EC%BC%80%EC%9D%B4%EB%93%9C.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/67) | 
