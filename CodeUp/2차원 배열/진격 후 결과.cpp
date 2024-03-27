@@ -12,9 +12,9 @@ int main() {
 		}
 	}
 
-	for (int i = 1; i <= 10; i++) { // 경주 시작
-		if (map[11][i] == 1) {
-			for (int j = 10; j > 0; j--) {
+	for (int i = 1; i <= 10; i++) { 
+		if (map[11][i] == 1) { // 말 찾기
+			for (int j = 10; j > 0; j--) { // 진격 시작
 				if (map[j][i] > 0) { // 장애물에 부딪힘
 					cout << i << " " << "crash" << endl;
 					break;
