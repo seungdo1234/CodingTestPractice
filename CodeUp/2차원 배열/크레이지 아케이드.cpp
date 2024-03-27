@@ -82,9 +82,9 @@ int main() {
 		}
 	}
 
-	Explode();
+	Explode(); // 물풍선 터짐 
 
-	PlayerState();
+	PlayerState(); // 플레이어 상태 정보 
 	
 	return 0;
 }
