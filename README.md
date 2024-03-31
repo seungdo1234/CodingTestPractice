@@ -51,5 +51,6 @@
 |2차원 배열|[크레이지 아케이드](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EC%95%84%EC%BC%80%EC%9D%B4%EB%93%9C.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/67) | 
 |2차원 배열|[지그재그 배열 3](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8%20%EB%B0%B0%EC%97%B4%203.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/69) | 
 |재귀 함수|[(재귀 함수) 1부터 n까지 출력하기](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/%EC%9E%AC%EA%B7%80%20%ED%95%A8%EC%88%98/(%EC%9E%AC%EA%B7%80%20%ED%95%A8%EC%88%98)%201%EB%B6%80%ED%84%B0%20n%EA%B9%8C%EC%A7%80%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/68) | 
+|재귀 함수|[일곱 난쟁](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84/%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/70) | 
 
 
