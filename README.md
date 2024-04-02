@@ -52,6 +52,8 @@
 |2차원 배열|[지그재그 배열 3](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8%20%EB%B0%B0%EC%97%B4%203.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/69) | 
 |2차원 배열|[바둑판에 흰 돌 놓기](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/2%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EB%B0%94%EB%91%91%ED%8C%90%EC%97%90%20%ED%9D%B0%20%EB%8F%8C%20%EB%86%93%EA%B8%B0.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/71) | 
 |재귀 함수|[(재귀 함수) 1부터 n까지 출력하기](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/%EC%9E%AC%EA%B7%80%20%ED%95%A8%EC%88%98/(%EC%9E%AC%EA%B7%80%20%ED%95%A8%EC%88%98)%201%EB%B6%80%ED%84%B0%20n%EA%B9%8C%EC%A7%80%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/68) | 
-|탐색기반설계|[일곱 난쟁이](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84/%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/70) | 
+|탐색기반 설계|[일곱 난쟁이](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84/%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/70) | 
+|관계기반 설계|[거스름돈 II](https://github.com/seungdo1234/CodingTestPractice/blob/main/CodeUp/%EA%B4%80%EA%B3%84%EA%B8%B0%EB%B0%98%20%EC%84%A4%EA%B3%84/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88%20II.cpp)| [풀이 바로가기](https://deff-dev.tistory.com/72) | 
+
 
 
