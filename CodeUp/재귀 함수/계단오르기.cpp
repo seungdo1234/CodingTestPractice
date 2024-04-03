@@ -15,7 +15,8 @@ int main() {
     for (int i = 0; i < n; i++) {
         cin >> stairs[i];
     }
-    
+	
+    // 0번 ~ 2번 계단의 최대 점수
     dp[0] = stairs[0];
     dp[1] = stairs[0] + stairs[1];
     dp[2] = max(stairs[0] + stairs[2], stairs[1] + stairs[2]);
