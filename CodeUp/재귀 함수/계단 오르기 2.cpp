@@ -61,8 +61,7 @@ int main() {
     int n;
     cin >> n;
 
-    int ways = countWays(n);
-    cout << ways << endl;
+    cout << countWays(n) << endl;
 
     return 0;
 }
