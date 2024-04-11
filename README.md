@@ -26,8 +26,7 @@
 |[삼총사](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EC%82%BC%EC%B4%9D%EC%82%AC/%EC%82%BC%EC%B4%9D%EC%82%AC.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/47) | 
 |[숫자 짝꿍](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/45) | 
 |[음양 더하기](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp) | [풀이 바로가기](https://deff-dev.tistory.com/49) | 
-|[부족한 금액 계산하기](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.cpp
-) | [풀이 바로가기]() | 
+|[부족한 금액 계산하기](https://github.com/seungdo1234/CodingTestPractice/blob/main/Programmers/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.cpp) | [풀이 바로가기](https://deff-dev.tistory.com) | 
 
 
 ## 백준
