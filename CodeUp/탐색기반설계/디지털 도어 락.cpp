@@ -22,10 +22,10 @@ int main() {
     int gcd1 = gcd(key1, key2);
 
     // 위에서 구한 최대공약수와 세 번째 수의 최대공약수를 구한다.
-    int master_key_id = gcd(gcd1, key3);
+    int masterKey = gcd(gcd1, key3);
 
     // 계산된 값(최대공약수)을 출력한다.
-    cout << master_key_id << endl;
+    cout << masterKey << endl;
 
     return 0;
 }
