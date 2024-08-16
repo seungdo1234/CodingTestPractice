@@ -1,7 +1,8 @@
 #include <string>
 #include <vector>
-#include <iostream>
 #include <algorithm>
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/43164
 
 using namespace std;
 
