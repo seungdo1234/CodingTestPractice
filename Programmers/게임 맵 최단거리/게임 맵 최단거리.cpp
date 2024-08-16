@@ -52,3 +52,55 @@ int solution(vector<vector<int> > maps)
     }
     
 }
+--------------------------------------------------------------------------------------
+// 이후 풀이
+
+#include<vector>
+#include<queue>
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/1844
+
+using namespace std;
+
+int dx [4] = {1,-1,0,0};
+int dy [4] = {0,0,1,-1};
+
+int BFS(vector<vector<int> > maps){
+    int m = maps[0].size(), n = maps.size();
+    queue<pair<int, int>> q;
+    q.push({0,0});
+    
+    while(!q.empty()){
+        int posY = q.front().first;
+        int posX = q.front().second;
+        
+        if(posY == n - 1 && posX == m - 1){
+           return maps[n - 1][m - 1];
+        }
+        
+        q.pop();
+        
+        for(int i = 0; i< 4; i++){
+            int moveY = posY + dy[i];
+            int moveX = posX + dx[i];
+            
+            if(moveX < 0 || moveY < 0 || moveX >= m || moveY >= n)
+                continue;
+            
+            if(maps[moveY][moveX] == 1){
+                maps[moveY][moveX] = maps[posY][posX] + 1;
+                q.push({moveY, moveX});
+            }
+        }
+    }
+    
+    return 0;
+}
+int solution(vector<vector<int> > maps)
+{
+    int answer = BFS(maps);
+    if(answer == 0)
+        return -1;
+    
+    return answer;
+}
