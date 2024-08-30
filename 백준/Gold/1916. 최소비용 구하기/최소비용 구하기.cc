@@ -29,8 +29,8 @@ void Dijk() {
 			continue;
 
 		for (int i = 0; i < vec[curPos].size(); i++) {
-			int wei = vec[curPos][i].second + curWei;
 			int nextPos = vec[curPos][i].first;
+			int wei = vec[curPos][i].second + curWei;
 
 			if (dist[nextPos] > wei) {
 				dist[nextPos] = wei;
