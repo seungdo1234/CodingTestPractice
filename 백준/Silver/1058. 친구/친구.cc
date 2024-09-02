@@ -33,16 +33,14 @@ int main() {
 	for (int i = 1; i <= n; i++) {
 		int count = 0;
 		for (int j = 1; j <= n; j++) {
-			if (!isCheck[i][j] && isFriend[i][j] && isFriend[j][i])
+			if (!isCheck[i][j] && isFriend[i][j] && isFriend[j][i]) // 지인 체크
 			{
-				//cout << i << " 번째 친구 = > " << j << endl;
 				isCheck[i][j] = true;
 				count++;
-				for (int k = 1; k <= n; k++) {
+				for (int k = 1; k <= n; k++) { // 겹지인 구하기
 					if (i != k && !isCheck[i][k] && !isFriend[i][k] && isFriend[j][k] && isFriend[k][j]) {
 						isCheck[i][k] = true;
 						count++;
-					//	cout << i << " 번째 친구 = > " << k << endl << endl;
 					}
 				}
 			}
