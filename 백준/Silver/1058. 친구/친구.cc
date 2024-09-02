@@ -11,7 +11,7 @@ using namespace std;
 
 bool isFriend[51][51] = { false, };
 bool isCheck[51][51] = { false, };
-int friendsCount[51] = { 0, };
+
 int main() {
 	int n;
 
