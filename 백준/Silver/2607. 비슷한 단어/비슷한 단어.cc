@@ -5,7 +5,7 @@
 
 using namespace std;
 
-bool isSimilar(const string& target, const string& word) {
+bool isSimilar(string target, string word) {
     if (abs((int)target.length() - (int)word.length()) > 1) return false;
 
     vector<int> count(26, 0);
@@ -13,7 +13,7 @@ bool isSimilar(const string& target, const string& word) {
     for (char c : word) count[c - 'A']--;
 
     int diff = 0;
-    for (int i : count) diff += abs(i);
+    for (int i : count)  diff += abs(i);
 
     return diff <= 2;
 }
@@ -27,13 +27,12 @@ int main() {
         cin >> words[i];
     }
 
-    int similar_count = 0;
+    int count = 0;
     for (int i = 1; i < n; i++) {
-        if (isSimilar(words[0], words[i])) {
-            similar_count++;
-        }
+        if (isSimilar(words[0], words[i])) 
+            count++;
     }
 
-    cout << similar_count << endl;
+    cout << count;
     return 0;
 }
