@@ -1,29 +1,25 @@
-
 #include <bits/stdc++.h>
 using namespace std;
 
-#define ll long long
-
-stack<int> s;
-int n;
-long long ans;
 
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
 
+	int h, n;
 	cin >> n;
-	int h;
+	stack<int> stack;
+	long long sum;
 	for(int i = 0; i < n; i++)
 	{
 		cin >> h;
-		while(!s.empty() && s.top() <= h)
+		while(!stack.empty() && stack.top() <= h)
 		{
-			s.pop();
+			stack.pop();
 		}
-		ans += s.size();
-		s.push(h);
+		sum += stack.size();
+		stack.push(h);
 	}
-	cout << ans;
+	cout << sum;
 	return 0;
 }
