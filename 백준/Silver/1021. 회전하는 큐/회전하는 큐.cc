@@ -2,22 +2,26 @@
 
 using namespace std;
 
+void MoveCollection(deque<int> &q, int dir)
+{
+	if(dir > 0)
+	{
+		q.push_front(q.back());
+		q.pop_back();
+	}
+	else
+	{
+		q.push_back(q.front());
+		q.pop_front();
+	}
+}
 
 int GetMove(deque<int> q, int target ,int dir )
 {
 	int count = 0;
 	while(q.front() != target)
 	{
-		if(dir > 0)
-		{
-			q.push_front(q.back());
-			q.pop_back();
-		}
-		else
-		{
-			q.push_back(q.front());
-			q.pop_front();
-		}
+		MoveCollection(q, dir);
 		count += dir;
 	}
 	return count;
@@ -30,20 +34,12 @@ void MoveDeque(deque<int> &q, int value)
 	
 	for(int i = 0; i < move; i++)
 	{
-		if(dir > 0)
-		{
-			q.push_front(q.back());
-			q.pop_back();
-		}
-		else
-		{
-			q.push_back(q.front());
-			q.pop_front();
-		}
+		MoveCollection(q, dir);
 	}
 
 	q.pop_front();
 }
+
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
