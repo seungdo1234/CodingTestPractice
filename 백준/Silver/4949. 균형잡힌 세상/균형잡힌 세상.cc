@@ -10,8 +10,7 @@ int main() {
 	{
 		string input;
 		getline(cin, input);
-		if(input == ".")
-			break;
+		if(input == ".") break;
 
 		stack<char> stack;
 		stack.push('0');
@@ -21,13 +20,9 @@ int main() {
 			char c = input[i];
 			if(!(c == '(' || c == ')' || c == '[' || c == ']')) continue;
 			
-			if((c == ')' && stack.top() == '(') || (c == ']' && stack.top() == '[')){
-				stack.pop();
-			}
-			else
-			{
-				stack.push(c);
-			}
+			if((c == ')' && stack.top() == '(') || (c == ']' && stack.top() == '[')) stack.pop();
+			else stack.push(c);
+			
 		}
 		
 		string output = stack.size() == 1 ? "yes\n" : "no\n";
