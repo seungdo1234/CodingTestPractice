@@ -13,6 +13,7 @@ int main() {
 	bool flag = false;
 	stack<char> stack;
 	stack.push('0');
+	
 	for(int i = 0; i < input.length(); i++)
 	{
 		char c = input[i];
@@ -22,7 +23,7 @@ int main() {
 			stack.push(c);
 			flag = true;
 		}
-		else if(stack.top() == '(' && c == ')')
+		else
 		{
 			bar--;
 			if(flag)
@@ -30,13 +31,10 @@ int main() {
 				sum += bar;
 				flag = false;
 			}
-			else
-			{
-				sum ++;
-			}
+			else sum += 1;
+			
 			stack.pop();
 		}
-
 	}
 
 	cout << sum ;
