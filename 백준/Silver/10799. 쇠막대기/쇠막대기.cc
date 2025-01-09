@@ -12,7 +12,6 @@ int main() {
 	int sum = 0, bar = 0;
 	bool flag = false;
 	stack<char> stack;
-	stack.push('0');
 	
 	for(int i = 0; i < input.length(); i++)
 	{
