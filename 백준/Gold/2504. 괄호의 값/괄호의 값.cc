@@ -28,7 +28,7 @@ int main()
 
 	stack<char> stack;
 	stack.push('0');
-	int sum = 0, v = 0, num = 1;
+	int sum = 0, num = 1;
 	for(int i = 0; i < input.length(); i++)
 	{
 		char c = input[i];
@@ -45,10 +45,8 @@ int main()
 				cout << 0;
 				return  0;
 			}
-
 			if(IsPlus(input[i -1], c)) sum += num;
 			num /= val;
-			
 			stack.pop();
 		}
 	}
