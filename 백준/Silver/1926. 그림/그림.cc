@@ -1,7 +1,5 @@
 #include <bits/stdc++.h>
 
-#include <algorithm>
-
 using namespace std;
 
 int n, m, pictureCount = 0 ,maxWidth = 0;
