@@ -38,7 +38,7 @@ void BFS(pair<int, int> startPoint)
 			}
 		}
 	}
-
+	
 	pictureCount++;
 	maxWidth = max(count, maxWidth);
 }
@@ -55,17 +55,10 @@ int main()
 			cin >> arr[i][j];
 
 	for(int i = 0; i < n; i++)
-	{
 		for(int j = 0; j < m; j++)
-		{
 			if(arr[i][j] == 1 && !visited[i][j])
-			{
 				BFS({i, j});
-			}
-		}
-	}
 
 	cout << pictureCount << "\n" << maxWidth;
-	
 	return 0;
 }
