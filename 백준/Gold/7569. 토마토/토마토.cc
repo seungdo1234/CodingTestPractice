@@ -14,6 +14,7 @@ void BFS()
 	int count = 0;
 	while (!q.empty())
 	{
+
 		int size = q.size();
 		for(int k = 0; k < size; k++)
 		{
@@ -32,6 +33,8 @@ void BFS()
 				}
 			}
 		}
+
+		
 		count ++;
 	}
 
@@ -56,23 +59,17 @@ int main()
 
 	cin >> m >> n >> h;
 
-	bool b = false;
 	for(int k = 0; k < h; k++)
 		for(int i = 0; i < n; i++)
 			for(int j = 0; j < m; j++)
 			{
 				cin >> arr[i][j][k];
 
-				if(arr[i][j][k] == 0)
-					b = true;
-				else if(arr[i][j][k] == 1)
+				if(arr[i][j][k] == 1)
 					q.push({{i, j}, k});
 			}
 
-	if(!b)
-		cout << 0;
-	else
-		BFS();
+	BFS();
 		
 	return 0;
 }
