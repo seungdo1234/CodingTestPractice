@@ -27,14 +27,16 @@ int BFS()
 			int moveX = curX + dx[i];
 			int moveY = curY + dy[i];
 			if(moveX < 0 || moveX >= m || moveY < 0 || moveY >= n) continue;
-			if(!broken && arr[moveY][moveX][broken] == -1)
+			
+			if(!broken && arr[moveY][moveX][broken] == -1) // 벽을 부술 때
 			{
 				arr[moveY][moveX][!broken] = arr[curY][curX][broken] + 1;
 				q.push({{moveY, moveX}, !broken});
 				continue;
 			}
 
-			if((arr[moveY][moveX][broken] == 0 || arr[curY][curX][broken] + 1 < arr[moveY][moveX][broken]))
+			// 부수지 않고 갈 때
+			if(arr[moveY][moveX][broken] == 0 || arr[curY][curX][broken] + 1 < arr[moveY][moveX][broken]) 
 			{
 				arr[moveY][moveX][broken] = arr[curY][curX][broken] + 1;
 				q.push({{moveY, moveX}, broken});
